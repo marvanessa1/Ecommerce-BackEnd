@@ -12,8 +12,8 @@ This application is not deployed but there are links to video walkthroughs that 
 
 - [License](#license)
 - [Installs](#installs)
-- [Tests] (#tests)
-- [Mock-up] (#mock-up)
+- [Tests](#tests)
+- [Mock-up](#mock-up)
 - [Contact Me](#contact-me)
 
 ## License
