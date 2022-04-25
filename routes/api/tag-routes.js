@@ -49,7 +49,7 @@ router.post('/', async (req, res) => {
   /* req.body should look like this...
   {
     tag_name: "rock music",
-    productIds: [1, 2, 3, 4]
+    productIds: [1, 2, 3,]
   }
 */
   try {
