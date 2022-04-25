@@ -80,10 +80,10 @@ Users are able to test API GET, POST, PUT, and DELETE routes in Insomnia Core
 
 ## Mock-up
 
-[Demo Walkthrough 1 - Initialization](https://watch.screencastify.com/v/C3erMxqj5AMQFLkpaomw) 
-[Demo Walkthrough 2 - Products CRUD](https://watch.screencastify.com/v/scNypW1QetFB18CN3sjk) 
-[Demo Walkthrough 3 - Tags CRUD](https://watch.screencastify.com/v/nCOBjDAXagNYDbs02JzY)
-[Demo Walkthrough 4 - Categories CRUD](https://watch.screencastify.com/v/TyB2RjhT1yyqjDDZsHNp)
+- [Demo Walkthrough 1 - Initialization](https://watch.screencastify.com/v/C3erMxqj5AMQFLkpaomw) 
+- [Demo Walkthrough 2 - Products CRUD](https://watch.screencastify.com/v/- scNypW1QetFB18CN3sjk) 
+- [Demo Walkthrough 3 - Tags CRUD](https://watch.screencastify.com/v/nCOBjDAXagNYDbs02JzY)
+- [Demo Walkthrough 4 - Categories CRUD](https://watch.screencastify.com/v/TyB2RjhT1yyqjDDZsHNp)
 
 ## Contact Me
 
